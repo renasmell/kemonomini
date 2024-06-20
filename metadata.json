@@ -1,0 +1,8 @@
+{
+  "name": "kemonomini",
+  "creator": "waifulove496",
+  "description": "/kemonomini",
+  "version": "0.0.2",
+  "entry": "index.js",
+  "requires": ["Amaterasu"]
+}
